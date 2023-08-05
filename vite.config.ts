@@ -5,7 +5,7 @@ import path from 'path'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/react-app-web-fundamentos/',
+  base: '/encuentro05-08-23/',
   root: "./",
   build: {
     outDir: "docs",
